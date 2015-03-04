@@ -4,3 +4,4 @@ Features:
 - Multi upload file 
 - File Preview with 3 mode, Extra Large, large, medium and details, 
 - Filter file by type file.
+- required Flash Player plugin 

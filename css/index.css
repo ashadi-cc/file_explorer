@@ -1,0 +1,41 @@
+body {
+    font-family:'lucida grande',tahoma,arial,sans-serif;
+    font-size:11px;
+	 /*outline: none; */
+}
+
+.x-body {
+	font-size: 11px; 
+}
+
+.x-form-item .x-form-item-label, .x-form-cb-label-after {
+	font-size: 11px; 
+}
+.x-form-field{
+	font-size: 11px; 
+}
+
+ .task .x-grid-cell-inner {
+     padding-left: 15px;
+ }
+
+ #main-panel {
+ 	margin: 20px 0 0 20px;
+ }
+ 
+ 
+.icon-view {
+    background-image: url(../images/text_list_bullets.png) !important;
+}
+
+.icon-folder {
+    background-image: url(../images/folders.png) !important;
+}
+
+.icon-folder-home {
+    background-image: url(../images/folder_home.png) !important;
+}
+
+.icon-folder-up {
+    background-image: url(../images/folder_up.png) !important;
+}

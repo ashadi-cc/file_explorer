@@ -1,0 +1,54 @@
+/*!
+ * Ext JS Library 3.2.1
+ * Copyright(c) 2006-2010 Ext JS, Inc.
+ * licensing@extjs.com
+ * http://www.extjs.com/license
+ */
+#images-view-medium .x-panel-body{
+	background: white;
+	font: 11px Arial, Helvetica, sans-serif;
+}
+#images-view-medium .thumb{
+	text-align:center;	
+	padding: 3px;
+}
+#images-view-medium .thumb {	
+	width: 64px;
+	height: 60px;
+}
+
+#images-view-medium .thumb-wrap{
+	float: left;
+	margin: 4px;
+	margin-right: 0;
+	padding: 5px;
+}
+#images-view-medium .thumb-wrap span{
+	display: block;
+	overflow: hidden;
+	text-align: center;
+}
+
+#images-view-medium .x-view-over{
+    border:1px solid #dddddd;
+    background: #efefef url(../js/extjs/resources/images/default/grid/row-over.gif) repeat-x left top;
+	padding: 4px;
+}
+
+#images-view-medium .x-view-selected{
+	background: #eff5fb url(../images/selected.gif) no-repeat right bottom;
+	border:1px solid #99bbe8;
+	padding: 4px;
+}
+#images-view-medium .x-view-selected .thumb{
+	background:transparent;
+}
+
+#images-view-medium .loading-indicator {
+	font-size:11px;
+	background-image:url('../js/extjs/resources/images/default/grid/loading.gif');
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-left:20px;
+	margin:10px;
+}
